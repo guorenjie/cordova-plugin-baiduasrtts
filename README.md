@@ -23,7 +23,7 @@ iOS
 
 在线url安装:  
 cordova plugin add
-https://gitlab.com/zzl_public/cordova-plugin-baiduasrtts.git --variable APIKEY=[your apikey] --variable SECRETKEY=[your secretkey] --variable APPID=[your appid]
+https://github.com/guorenjie/cordova-plugin-baiduasrtts.git --variable APIKEY=[your apikey] --variable SECRETKEY=[your secretkey] --variable APPID=[your appid]
 
 本地安装:  
 
