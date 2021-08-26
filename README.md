@@ -8,12 +8,6 @@
 
 [https://ai.baidu.com/ai-doc/SPEECH/Ek39uxgre](https://ai.baidu.com/ai-doc/SPEECH/Ek39uxgre)
 
-
-​    
-​       
-​       
-
-
 支持平台： 
 
 Android
