@@ -1,4 +1,4 @@
-###  前言
+### 前言
 这是一个百度语音唤醒、识别、合成的cordova插件。 
 基于[https://gitlab.com/zzl_public/cordova-plugin-baiduasrtts](https://gitlab.com/zzl_public/cordova-plugin-baiduasrtts)修改，添加了语音唤醒和语音识别提示音，语音识别使用短语音识别普通话，语音合成使用基础音库
 
